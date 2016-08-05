@@ -9,7 +9,7 @@ toc: false
 
  * Made logbook website
  * The 2D exclusion plots are made  
-[ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv19800toys_limit.png){:height="36px" width="36px"}  
+![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv19800toys_limit.png){:height="36px" width="36px"}  
 
 <img alt="mumu" src="http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv19800toys_limit.png" width=300 />  
 
