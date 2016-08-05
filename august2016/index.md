@@ -6,6 +6,6 @@ toc: false
 
 We can write paragraphs.
 
-And include picutres
+And include pictures ![Captain](captaincomic.png)
 
 
