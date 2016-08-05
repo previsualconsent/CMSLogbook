@@ -4,8 +4,10 @@ type: default
 toc: false
 ---
 
-We can write paragraphs.
 
-And include pictures ![Captain](captain_comic.jpg)
+### August 5th
 
+ * Made logbook website
+ * The 2D exclusion plots are made  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv19800toys_limit.png) ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv19800toys_limit.png)
+ * 
 
