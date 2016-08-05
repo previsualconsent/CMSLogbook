@@ -12,5 +12,5 @@ toc: false
    <img alt="ee" src="http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv19800toys_limit.png" width=300 />  
    <img alt="mumu" src="http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv19800toys_limit.png" width=300 />  
    Need to add these to AN with description of how it is done. 
- * Want to read up on the W_R
+ * Want to read up on the $$W_R$$
 
