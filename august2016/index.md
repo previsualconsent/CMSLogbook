@@ -8,6 +8,6 @@ toc: false
 ### August 5th
 
  * Made logbook website
- * The 2D exclusion plots are made  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv19800toys_limit.png) ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv19800toys_limit.png)
+ * The 2D exclusion plots are made  <img alt="ee" src ="http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv19800toys_limit.png" width = 300 /> <img alt="mumu" src ="http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv19800toys_limit.png" width = 300 />
  * 
 
