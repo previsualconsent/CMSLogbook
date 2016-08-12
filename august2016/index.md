@@ -12,24 +12,24 @@ toc: false
  * 2016 Data
 
 ### August 12th
+
 ### August 11th
  * [$W_R$ meeting.] (https://indico.cern.ch/event/562412/)
- * 
+ 
 ### August 10th
  * Worked on N-1 Reco plots. [commit](https://github.com/UMN-CMS/cms-WR/commit/d9e53a433131f784d7be9d6e96fa25a7f150cf83)
  * [Examples](http://phansen.web.cern.ch/phansen/wr-plots/?match=nminus*800_400*)
  * Talked with Jim about GPU enabled plot server. 
+
 ### August 9th
  * Rosalie's 9 month appointment.
  * Cleaned up my code branch and commited [PR](https://github.com/UMN-CMS/cms-WR/pull/77)
 
 ### August 8th
-
  * Fedexing Roger's driver's license.
  * 2D Plots and description added to AN. [Branch](https://gitlab.cern.ch/cms-WR/AN/commits/limits2d). 
 
 ### August 5th
-
  * Made logbook website
  * The 2D exclusion plots are made  
    ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv19800toys_limit.png#2)![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv19800toys_limit.png#2)  
