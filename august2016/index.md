@@ -14,7 +14,7 @@ toc: false
 ### August 12th
 
 ### August 11th
- * [$W_R$ meeting.] (https://indico.cern.ch/event/562412/)
+ * [$$W_R$$ meeting.](https://indico.cern.ch/event/562412/)
  
 ### August 10th
  * Worked on N-1 Reco plots. [commit](https://github.com/UMN-CMS/cms-WR/commit/d9e53a433131f784d7be9d6e96fa25a7f150cf83)
