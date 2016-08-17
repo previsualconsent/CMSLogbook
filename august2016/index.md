@@ -12,6 +12,9 @@ toc: false
  * 2016 Data
  * Scale limit to 2016 dataset size
 
+### August 17
+ * New 2D limits for 20 fb$${}^{-1}$$.
+
 ### August 16
  * Spent most of the day trying to get CUDA on my laptop
  * Read some AN - Could do TTBar estimation since it does not use an MC.
