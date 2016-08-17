@@ -14,6 +14,10 @@ toc: false
 
 ### August 17
  * New 2D limits for 20 fb$${}^{-1}$$.
+ * When I scaled the # of events in the trees, I get the same limit
+ * When I scaled just the rates and the unweighted # of events, I get the same limit
+ * I need to study up on the limit setting algorithm in order to be able to explain whats going on to Roger. 
+    * My by hand calculation is ~/CMS/wr/limit.py
 
 ### August 16
  * Spent most of the day trying to get CUDA on my laptop
