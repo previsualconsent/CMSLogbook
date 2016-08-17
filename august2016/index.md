@@ -10,6 +10,7 @@ toc: false
 ### TODO
  * Get PyCuda running on laptop
  * 2016 Data
+ * Scale limit to 2016 dataset size
 
 ### August 16
  * Spent most of the day trying to get CUDA on my laptop
