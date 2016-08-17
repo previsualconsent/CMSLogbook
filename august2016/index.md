@@ -11,6 +11,10 @@ toc: false
  * Get PyCuda running on laptop
  * 2016 Data
 
+### August 16
+ * Spent most of the day trying to get CUDA on my laptop
+ * Read some AN - Could do TTBar estimation since it does not use an MC.
+
 ### August 12th
 
 ### August 11th
