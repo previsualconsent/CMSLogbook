@@ -4,6 +4,14 @@ type: default
 toc: false
 ---
 
+#### Analysis Decisions
+
+##### Skims vs Minitrees
+ 1. Minitrees make it harder to switch something like which jet collection we are using.
+ 2. Skims make N-1 plots harder.
+ 3. Don't want Skims & Minitrees.
+ 4. I prefer skims for (1.)
+ 
 #### Dielectron paper: [AN](http://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=CMS%20AN-2016/190)
 
 Some known issues that may be relevant to our analysis. 
