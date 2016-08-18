@@ -7,5 +7,6 @@ custom_css: mainpage
 
 ## Logbooks
  * [August 2016](august2016)
+ * [WR Notes for Run2016](Run2016Notes)
 
 
