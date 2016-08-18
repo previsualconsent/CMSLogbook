@@ -12,6 +12,10 @@ toc: false
  * 2016 Data
  * Scale limit to 2016 dataset size
 
+### August 18
+ * I wasn't changing which datacard, my issue yesterday is moot. 
+ * Compiling info for 2016 run [here.](../Run2016Notes/)
+ 
 ### August 17
  * New 2D limits for 20 fb$${}^{-1}$$.
  * When I scaled the # of events in the trees, I get the same limit
@@ -20,6 +24,7 @@ toc: false
     * My by hand calculation is ~/CMS/wr/limit.py
 
 ### August 16
+
  * Spent most of the day trying to get CUDA on my laptop
  * Read some AN - Could do TTBar estimation since it does not use an MC.
 
