@@ -28,7 +28,7 @@ toc: false
 
 <a name="table"></a>
 
-#### Expected Number of Events for 20 $${}^{-1}$$ 
+#### Expected Number of Events for 20 fb$${}^{-1}$$ 
 
 |  channel  |  mass  |  DYNoFit  |  DYFit   |  TTNoFit  |  TTFit   |
 |------------------------------------------------------------------|
