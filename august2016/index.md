@@ -25,6 +25,9 @@ toc: false
 |  1D  ee    |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv1920invfb_50toys_tf1fit_full.png)         |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv1950toys_tf1fit_full.png)         |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv1920invfb_50toys_full.png)         |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv19800toys_full.png)         |
 |  1D  mumu  |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/limWRmumujj_SHv1920invfb_50toys_tf1fit_full.png)     |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/limWRmumujj_SHv1950toys_tf1fit_full.png)     |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/limWRmumujj_SHv1920invfb_50toys_full.png)     |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/limWRmumujj_SHv19800toys_full.png)     |
 
+
+
+#### Expected Number of Events for 20 $${}^{-1}$$ <a name=""></a>
 |  channel  |  mass  |  DYNoFit  |  DYFit   |  TTNoFit  |  TTFit   |
 |------------------------------------------------------------------|
 |  ee       |  800   |  65.45    |  72.69   |  166.06   |  161.04  |
