@@ -18,14 +18,22 @@ toc: false
  * I wasn't changing which datacard, my issue yesterday is moot. 
  * Compiling info for 2016 run [here.](../Run2016Notes/)
 
-| Channel |  Scaled to 20 fb$${}^{-1}$$ using fit | Original 2.65 fb$${}^{-1}$$  using fit |  Scaled to 20 fb$${}^{-1}$$ | Original 2.65 fb$${}^{-1}$$ |
+#### Limits for 20 fb$${}^{-1}$$
+| Channel |  Fit | No Fit|
 |---|
-|  2D  ee    |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv1920invfb_50toys_tf1fit_limit.png)      |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv1950toys_tf1fit_limit.png)      |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv1920invfb_50toys_limit.png)      |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv19800toys_limit.png)      |
-|  2D  mumu  |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv1920invfb_50toys_tf1fit_limit.png)  |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv1950toys_tf1fit_limit.png)  |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv1920invfb_50toys_limit.png)  |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv19800toys_limit.png)  |
-|  1D  ee    |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv1920invfb_50toys_tf1fit_full.png)         |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv1950toys_tf1fit_full.png)         |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv1920invfb_50toys_full.png)         |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv19800toys_full.png)         |
-|  1D  mumu  |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/limWRmumujj_SHv1920invfb_50toys_tf1fit_full.png)     |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/limWRmumujj_SHv1950toys_tf1fit_full.png)     |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/limWRmumujj_SHv1920invfb_50toys_full.png)     |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/limWRmumujj_SHv19800toys_full.png)     |
+|  2D  ee    |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv1920invfb_50toys_tf1fit_limit.png)      |   ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv1920invfb_50toys_limit.png)      |  
+|  2D  mumu  |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv1920invfb_50toys_tf1fit_limit.png)  |   ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv1920invfb_50toys_limit.png)  |  
+|  1D  ee    |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv1920invfb_50toys_tf1fit_full.png)         |   ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv1920invfb_50toys_full.png)         |  
+|  1D  mumu  |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/limWRmumujj_SHv1920invfb_50toys_tf1fit_full.png)     |   ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/limWRmumujj_SHv1920invfb_50toys_full.png)     |  
 
+#### Limits for 2.65 fb$${}^{-1}$$
 
+| Channel | Fit | NoFit |
+|---|
+|  2D  ee    | ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv1950toys_tf1fit_limit.png)      |   ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv19800toys_limit.png)      |
+|  2D  mumu  |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv1950toys_tf1fit_limit.png)  |    ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv19800toys_limit.png)  |
+|  1D  ee    |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv1950toys_tf1fit_full.png)         |   ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv19800toys_full.png)         |
+|  1D  mumu  |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/limWRmumujj_SHv1950toys_tf1fit_full.png)     |    ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/limWRmumujj_SHv19800toys_full.png)     |
 <a name="table"></a>
 
 #### Expected Number of Events for 20 fb$${}^{-1}$$ 
