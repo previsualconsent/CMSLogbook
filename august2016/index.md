@@ -21,7 +21,7 @@ toc: false
 #### Limits for 20 fb$${}^{-1}$$
 
 | Channel |  Fit | No Fit |
-|---|
+|:-:|:-:|:-:|
 |  2D  ee    |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv1920invfb_50toys_tf1fit_limit.png)      |   ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv1920invfb_50toys_limit.png)      |  
 |  2D  mumu  |  ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv1920invfb_50toys_tf1fit_limit.png)  |   ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv1920invfb_50toys_limit.png)  |  
 |  1D  ee    |  ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv1920invfb_50toys_tf1fit_full.png)         |   ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv1920invfb_50toys_full.png)         |  
@@ -30,7 +30,7 @@ toc: false
 #### Limits for 2.65 fb$${}^{-1}$$
 
 | Channel | Fit | NoFit |
-|---|
+|:-:|:-:|:-:|
 |  2D  ee    | ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv1950toys_tf1fit_limit.png)      |   ![ee](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWReejj_SHv19800toys_limit.png)      |
 |  2D  mumu  | ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv1950toys_tf1fit_limit.png)  |    ![mumu](http://phansen.web.cern.ch/phansen/wr-plots/lim2dWRmumujj_SHv19800toys_limit.png)  |
 |  1D  ee    | ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv1950toys_tf1fit_full.png)         |   ![ee](http://phansen.web.cern.ch/phansen/wr-plots/limWReejj_SHv19800toys_full.png)         |
