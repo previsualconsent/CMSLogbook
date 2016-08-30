@@ -79,3 +79,7 @@ toc: false
 |  mumu     |  5600  |  -1.67    |  0.00    |  0.0      |  0.01    |
 |  mumu     |  5800  |  -1.66    |  0.00    |  0.0      |  0.00    |
 |  mumu     |  6000  |  -1.65    |  0.00    |  0.0      |  0.00    |
+
+|  Fit  |  NoFit  |
+|-----------|--------|
+| ![fit](http://phansen.web.cern.ch/phansen/wr-plots/fit_ele_events.png) | ![nofit](http://phansen.web.cern.ch/phansen/wr-plots/nofit_ele_events.png)
