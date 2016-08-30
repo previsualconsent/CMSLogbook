@@ -29,3 +29,4 @@ Some known issues that may be relevant to our analysis.
  * [Workbook MiniAOD](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookMiniAOD)
  * [Workbook MiniAOD 2016](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookMiniAOD2016)
  * [POG Recipes ICHEP](https://twiki.cern.ch/twiki/bin/viewauth/CMS/POGRecipesICHEP2016)
+ * [JSON](https://twiki.cern.ch/twiki/bin/viewauth/CMS/PdmV2016Analysis)
