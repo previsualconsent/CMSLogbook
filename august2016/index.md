@@ -9,7 +9,14 @@ toc: false
 
 ### TODO
  * 2016 Data
- * 
+
+### Requests
+ * Limit plot of 20/fb with 2.6 on top. 
+ * Comparison plot of # of events with fit vs no fit
+ 
+### August 30
+ * At the group meeting I showed these [plots](../plots/limit-comparison).
+ * Jeremy noted that the TTBar fit seems to have a weird bump, maybe need to exponentials.
  
 ### August 23
  * Added fit based limits to table below
