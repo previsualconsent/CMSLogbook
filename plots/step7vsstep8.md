@@ -1,10 +1,10 @@
 ---
-title: Step 7 vs Step 8 Comparison of $$\rho$$ and $$\phi$$
+title: Step 7 vs Step 8 Smearing Comparison
 type: default
 toc: true
 ---
 
-### $$\phi$$ EB
+## $$\phi$$ EB
 
 |  |  step7 | step8 |
 |:-:|:-:|:-:|
@@ -13,7 +13,7 @@ toc: true
 |  $$\phi$$ absEta_1_1.4442-bad    |  ![phi](https://project-cms-ecal-calibration.web.cern.ch/project-cms-ecal-calibration/RUN2_ECAL_Calibration/Moriond17_newRegrFix_LT/invMass_ECAL_pho/step7EB/outProfile-scaleStepLowEtEB-EtLeading_32-EtSubLeading_20-noPF-isEle-phiabsEta_1_1.4442-bad-EtLeading_32-EtSubLeading_20-noPF-isEle.png)      |   ![phi](https://project-cms-ecal-calibration.web.cern.ch/project-cms-ecal-calibration/RUN2_ECAL_Calibration/Moriond17_newRegrFix_LT/invMass_ECAL_pho/step8EB/outProfile-scaleStepLowEtEB-EtLeading_32-EtSubLeading_20-noPF-isEle-phiabsEta_1_1.4442-bad-EtLeading_32-EtSubLeading_20-noPF-isEle.png)      |  
 |  $$\phi$$ absEta_1_1.4442-gold   |  ![phi](https://project-cms-ecal-calibration.web.cern.ch/project-cms-ecal-calibration/RUN2_ECAL_Calibration/Moriond17_newRegrFix_LT/invMass_ECAL_pho/step7EB/outProfile-scaleStepLowEtEB-EtLeading_32-EtSubLeading_20-noPF-isEle-phiabsEta_1_1.4442-gold-EtLeading_32-EtSubLeading_20-noPF-isEle.png)      |   ![phi](https://project-cms-ecal-calibration.web.cern.ch/project-cms-ecal-calibration/RUN2_ECAL_Calibration/Moriond17_newRegrFix_LT/invMass_ECAL_pho/step8EB/outProfile-scaleStepLowEtEB-EtLeading_32-EtSubLeading_20-noPF-isEle-phiabsEta_1_1.4442-gold-EtLeading_32-EtSubLeading_20-noPF-isEle.png)      |  
 
-### $$\phi$$ EE
+## $$\phi$$ EE
 
 |  |  step7 | step8 |
 |:-:|:-:|:-:|
@@ -22,7 +22,7 @@ toc: true
 |  $$\phi$$ absEta_2_2.5-bad    |  ![phi](https://project-cms-ecal-calibration.web.cern.ch/project-cms-ecal-calibration/RUN2_ECAL_Calibration/Moriond17_newRegrFix_LT/invMass_ECAL_pho/step7EE/outProfile-scaleStepLowEtEE-EtLeading_32-EtSubLeading_20-noPF-isEle-phiabsEta_2_2.5-bad-EtLeading_32-EtSubLeading_20-noPF-isEle.png)      |   ![phi](https://project-cms-ecal-calibration.web.cern.ch/project-cms-ecal-calibration/RUN2_ECAL_Calibration/Moriond17_newRegrFix_LT/invMass_ECAL_pho/step8EE/outProfile-scaleStepLowEtEE-EtLeading_32-EtSubLeading_20-noPF-isEle-phiabsEta_2_2.5-bad-EtLeading_32-EtSubLeading_20-noPF-isEle.png)      |  
 |  $$\phi$$ absEta_2_2.5-gold   |  ![phi](https://project-cms-ecal-calibration.web.cern.ch/project-cms-ecal-calibration/RUN2_ECAL_Calibration/Moriond17_newRegrFix_LT/invMass_ECAL_pho/step7EE/outProfile-scaleStepLowEtEE-EtLeading_32-EtSubLeading_20-noPF-isEle-phiabsEta_2_2.5-gold-EtLeading_32-EtSubLeading_20-noPF-isEle.png)      |   ![phi](https://project-cms-ecal-calibration.web.cern.ch/project-cms-ecal-calibration/RUN2_ECAL_Calibration/Moriond17_newRegrFix_LT/invMass_ECAL_pho/step8EE/outProfile-scaleStepLowEtEE-EtLeading_32-EtSubLeading_20-noPF-isEle-phiabsEta_2_2.5-gold-EtLeading_32-EtSubLeading_20-noPF-isEle.png)      |  
 
-### $$\rho$$ EB
+## $$\rho$$ EB
 
 |  |  step7 | step8 |
 |:-:|:-:|:-:|
@@ -31,7 +31,7 @@ toc: true
 |  $$\rho$$ absEta_1_1.4442-bad    |  ![rho](https://project-cms-ecal-calibration.web.cern.ch/project-cms-ecal-calibration/RUN2_ECAL_Calibration/Moriond17_newRegrFix_LT/invMass_ECAL_pho/step7EB/outProfile-scaleStepLowEtEB-EtLeading_32-EtSubLeading_20-noPF-isEle-rhoabsEta_1_1.4442-bad-EtLeading_32-EtSubLeading_20-noPF-isEle.png)      |   ![rho](https://project-cms-ecal-calibration.web.cern.ch/project-cms-ecal-calibration/RUN2_ECAL_Calibration/Moriond17_newRegrFix_LT/invMass_ECAL_pho/step8EB/outProfile-scaleStepLowEtEB-EtLeading_32-EtSubLeading_20-noPF-isEle-rhoabsEta_1_1.4442-bad-EtLeading_32-EtSubLeading_20-noPF-isEle.png)      |  
 |  $$\rho$$ absEta_1_1.4442-gold   |  ![rho](https://project-cms-ecal-calibration.web.cern.ch/project-cms-ecal-calibration/RUN2_ECAL_Calibration/Moriond17_newRegrFix_LT/invMass_ECAL_pho/step7EB/outProfile-scaleStepLowEtEB-EtLeading_32-EtSubLeading_20-noPF-isEle-rhoabsEta_1_1.4442-gold-EtLeading_32-EtSubLeading_20-noPF-isEle.png)      |   ![rho](https://project-cms-ecal-calibration.web.cern.ch/project-cms-ecal-calibration/RUN2_ECAL_Calibration/Moriond17_newRegrFix_LT/invMass_ECAL_pho/step8EB/outProfile-scaleStepLowEtEB-EtLeading_32-EtSubLeading_20-noPF-isEle-rhoabsEta_1_1.4442-gold-EtLeading_32-EtSubLeading_20-noPF-isEle.png)      |  
 
-### $$\rho$$ EE
+## $$\rho$$ EE
 
 |  |  step7 | step8 |
 |:-:|:-:|:-:|
