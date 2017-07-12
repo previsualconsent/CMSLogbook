@@ -1,3 +1,10 @@
+---
+title: GPUNotes
+type: default
+toc: false
+---
+
+
 LDRD Proposal - Jin
 --------
 
