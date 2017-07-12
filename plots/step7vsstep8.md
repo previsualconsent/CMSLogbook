@@ -1,10 +1,8 @@
 ---
-title: Step 7 vs Step 8 Comparison of rho and phi
+title: Step 7 vs Step 8 Comparison of $$rho$$ and $$phi$$
 type: default
 toc: false
 ---
-
-#### Step 7 vs Step 8 Comparison of $$\rho, \phi$$
 
 |  |  step7 | step8 |
 |:-:|:-:|:-:|
