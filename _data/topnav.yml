@@ -5,15 +5,15 @@ topnav:
   items:
     - title: Home
       url: /
-- title: August 2016
-  items:
-    - title: August 2016
-      url: /august2016/
-- title: September 2016
-  items:
-    - title: September 2016
-      url: /sept2016/
-- title: WR 2016 Notes
-  items:
-    - title: WR 2016 Notes
-      url: /Run2016Notes/
+#- title: August 2016
+#  items:
+#    - title: August 2016
+#      url: /august2016/
+#- title: September 2016
+#  items:
+#    - title: September 2016
+#      url: /sept2016/
+#- title: WR 2016 Notes
+#  items:
+#    - title: WR 2016 Notes
+#      url: /Run2016Notes/
